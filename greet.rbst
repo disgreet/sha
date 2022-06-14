@@ -18,7 +18,7 @@ object attributes. It provides the default model binding behavior for the
 
 Examples:
 
-.. code-block:: python
+.. code-block:: py__URI.yaml
 
     from atom.api import Atom, Str, Range, Bool, observe
 
